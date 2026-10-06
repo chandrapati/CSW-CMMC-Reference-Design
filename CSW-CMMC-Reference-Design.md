@@ -107,7 +107,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -765,16 +765,16 @@ view:
   capabilities for L3 are noted in §12 above.
 - **NIST SP 800-53 Rev 5** — superset of 800-171. The 800-53
   runbook covers CMMC L2 with broader context. See
-  [800-53 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md).
+  [800-53 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md).
 - **NIST SP 800-207 (Zero Trust Architecture)** — an architectural
   pattern that can support many SC/AC control objectives at depth. See
-  [800-207 runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md).
+  [800-207 runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md).
 - **NIST CSF 2.0** — the outcomes wrapper that cites 800-171 as
   Informative References under PR/DE/RS Subcategories. See
-  [CSF runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-CSF-2/CSW-CSF-Technical-Runbook.md).
+  [CSF runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-CSF-2/CSW-CSF-Technical-Runbook.md).
 - **CIS Controls v8.1** — many CIS Safeguards align directly with
   800-171 practices. See
-  [CIS runbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/CIS-Controls-v8/CSW-CIS-Technical-Runbook.md).
+  [CIS runbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/CIS-Controls-v8/CSW-CIS-Technical-Runbook.md).
 - **DFARS 252.204-7012** — the contractual basis for CMMC; the
   technical content sits in NIST 800-171 which this reference design
   addresses.
@@ -824,4 +824,4 @@ formal compliance engagement.
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
